@@ -66,7 +66,7 @@ The L298N controls the motor directions as decided by the algorithm.
 
 ## 🎥 Demo Video
 
-📌 Watch the maze-solving demo → **Result.mp4**
+📌 Watch the maze-solving demo → **[Result.mp4](https://github.com/kashyappatel0111/Maze-Solving-Autonomous-Robot/blob/main/Result.mp4)**
 
 ---
 
