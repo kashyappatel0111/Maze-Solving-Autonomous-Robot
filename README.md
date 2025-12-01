@@ -9,7 +9,7 @@ The robot detects walls, makes navigation decisions, and solves mazes **without 
 
 - **maze.ino** → Main ESP32 code for autonomous maze solving  
 - **Circuit Diagram.png** → Complete wiring diagram of ESP32, L298N, sensors, and motors  
-- **Result.mp4** → Demo video showing maze-solving performance  
+- **[Result.mp4](https://github.com/kashyappatel0111/Maze-Solving-Autonomous-Robot/blob/main/Result.mp4)** → Demo video showing maze-solving performance  
 - **README.md** → Project documentation  
 
 ---
