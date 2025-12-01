@@ -89,9 +89,3 @@ The L298N controls the motor directions as decided by the algorithm.
 
 ---
 
-## 📝 Author
-
-Kashyap Patel 
-CHARUSAT University  
-2025–26
-
