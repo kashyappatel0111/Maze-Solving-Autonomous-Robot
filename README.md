@@ -60,7 +60,7 @@ The L298N controls the motor directions as decided by the algorithm.
 
 ## 🔌 Circuit Diagram
 
-📌 View diagram here → **Circuit Diagram.png**
+📌 View diagram here → **[Circuit Diagram.png](https://github.com/kashyappatel0111/Maze-Solving-Autonomous-Robot/blob/main/Circuit%20Diagram%20.png)**
 
 ---
 
